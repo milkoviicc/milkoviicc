@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/m1lkyy](https://github.com/m1lkyy)
+- 👨‍💻 All of my projects are available at [My Repositories]([https://github.com/m1lkyy](https://github.com/milkoviicc?tab=repositories))
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, MongoDB, MSSQL**
 
