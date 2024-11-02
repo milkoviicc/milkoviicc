@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/m1lky11" target="blank"><img src="https://img.shields.io/twitter/follow/m1lky11?logo=twitter&style=for-the-badge" alt="m1lky11" /></a> </p>
 
-- 🔭 I’m currently working on [a social network web app](https://github.com/milkoviicc/zavrsni)
+- 🔭 I’m currently working on a [social network web app](https://github.com/milkoviicc/zavrsni)
 
 - 🌱 I’m currently learning **NextJS**
 
