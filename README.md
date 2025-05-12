@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)](https://github.com/milkoviicc)
 <h1 align="center">Hi 👋, I'm Marko Milković</h1>
 <h3 align="center">A Frontend developer from Croatia</h3>
 
