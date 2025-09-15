@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko Milković</h1>
 <h3 align="center">A Frontend developer from Croatia</h3>
 
-- 🔭 I’m currently working on a SasS
+- 🔭 I’m currently doing an Erasmus+ internship in Madrid, Spain.
 
 - 🌱 My Tech Stack: NextJS, TypeScript, TailwindCSS
 
