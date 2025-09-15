@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/milkoviicc?tab=repositories)
 
-- 💬 Experienced in working with: **HTML, CSS, JavaScript/Typescript, React, NextJS, Bootstrap, TailwindCSS, MongoDB, MSSQL**
+- 💬 Experienced in working with: **HTML, CSS, JavaScript/Typescript, React, NextJS, VueJS, Bootstrap, TailwindCSS, MongoDB, MSSQL**
 
 - 📫 Reach out to me **marko.milkovicc@gmail.com**
 
